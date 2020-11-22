@@ -23,6 +23,7 @@ title:  "팀 프로젝트"
 1. 튜토리얼 설명 추가 (1명)
 2. 색 관련 customization (3명)
 3. stroke 너비 조정 개발 (2명)
+
 <github 관리>
 1. 내용 문서화 (2명)
 2. 깃헙관리(2-3명); 위키, github.io, README.md 정리
